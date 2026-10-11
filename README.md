@@ -14,5 +14,5 @@ October 9 - 11, 2026
 - The Minecraft Jukebox uses an ESP32, RFID reader, and microSD card to bring Minecraft's music discs into the real work. When a disc with an RFID tag is scanned, the ESP32 identifies its unique ID and matches it to the corresponding audio file stored on the microSD card. The selected track is then decoded and sent to a MAX98357A amplifier, which drives the speakers to play the music. Each RFID disc acts as a physical music selection, just like Minecraft!
 
 ### Connect with us
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ana-z-valdivia/)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/brandondbray/)
+[![Ana's LinkedIn](https://shields.io)](https://www.linkedin.com/in/ana-z-valdivia/)
+[![Brandon's LinkedIn](https://shields.io)](https://www.linkedin.com/in/brandondbray/)
